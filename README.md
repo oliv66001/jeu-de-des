@@ -1,1 +1,1 @@
-# jeu-de-des
+# jeu de dés
